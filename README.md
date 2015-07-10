@@ -1,2 +1,2 @@
 # HashSHA256
-Calculate SHA 256 with OpenSSL and C
+Calculate SHA 256 hash with OpenSSL and C
